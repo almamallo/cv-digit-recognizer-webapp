@@ -1,0 +1,4 @@
+opencv-contrib-python-headless==4.4.0.46
+flask
+gunicorn
+numpy
